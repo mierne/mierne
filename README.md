@@ -1,7 +1,5 @@
-# Ahoy, I'm Valerie!
-<h5>aka Mierne, Val, Vee</h5>
-I like to tinker with computers and amateur radio.<br>
-I collect CDs too, I guess.
+# Ahoy, I'm Mierne!
+There's not much to see here at the moment.
 
 ## Contact
 - email: ahoy@mierne.net
